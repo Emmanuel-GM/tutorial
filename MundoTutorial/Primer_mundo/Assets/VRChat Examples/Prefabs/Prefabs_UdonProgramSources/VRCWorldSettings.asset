@@ -255,13 +255,13 @@ MonoBehaviour:
       we are playing this scene in the Unity Editor and not the VRChat client, LocalPlayer
       is null","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
   - type: 5
-    uid: cddf633d-d48d-4bda-954f-1d0dd8f691c2
+    uid: b3a6a2ca-f512-4fc4-8ea4-683a9cb3268c
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":130.0,"width":200.0,"height":150.0}}'
   - type: 4
-    uid: 46d8d053-df09-42aa-b83b-0d8d8bbabc43
+    uid: f3e7b162-2dec-4f3e-b1df-3098478f0e3e
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":20.0,"width":0.0,"height":0.0}}'
   viewTransform:
-    position: {x: 821.08167, y: 300.40567}
-    scale: 0.56048167
+    position: {x: 527.6436, y: 141.75919}
+    scale: 0.2
   version: 1.0.0
   showAssembly: 1
